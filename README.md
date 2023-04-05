@@ -1,1 +1,1 @@
-                           ![Profile views](https://gpvc.arturio.dev/mdnuruzzamanKALLOL)
+![Profile views](https://gpvc.arturio.dev/mdnuruzzamanKALLOL)
