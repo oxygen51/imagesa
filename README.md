@@ -1,4 +1,1 @@
-
-
-
-<p style="text-align:center;">![Profile Visitors](https://gpvc.arturio.dev/mdnuruzzamanKALLOL) </p>
+                           ![Profile views](https://gpvc.arturio.dev/mdnuruzzamanKALLOL)
