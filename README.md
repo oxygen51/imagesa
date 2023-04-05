@@ -1,1 +1,1 @@
-![Profile Visitors](https://gpvc.arturio.dev/mdnuruzzamanKALLOL)
+![](https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS)
